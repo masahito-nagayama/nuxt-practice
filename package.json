@@ -1,1 +1,10 @@
-{"name":"app","scripts":{"dev":"nuxt --spa"},"dependencies":{"nuxt":"^2.14.12"}}
+{"name":"app",
+  "scripts":{
+    "dev":"nuxt --spa",
+    "build": "nnuxt build",
+    "generate": "nuxt generate"
+  },
+  "dependencies":{
+    "nuxt":"^2.14.12"
+  }
+}
