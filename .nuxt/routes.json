@@ -1,0 +1,30 @@
+[
+  {
+    "name": "page1",
+    "path": "/page1",
+    "component": "/Users/masahito/Desktop/nuxt.p/pages/page1.vue",
+    "chunkName": "pages/page1",
+    "_name": "_47e921c9"
+  },
+  {
+    "name": "page2",
+    "path": "/page2",
+    "component": "/Users/masahito/Desktop/nuxt.p/pages/page2.vue",
+    "chunkName": "pages/page2",
+    "_name": "_47f7394a"
+  },
+  {
+    "name": "page3",
+    "path": "/page3",
+    "component": "/Users/masahito/Desktop/nuxt.p/pages/page3.vue",
+    "chunkName": "pages/page3",
+    "_name": "_480550cb"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/masahito/Desktop/nuxt.p/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_34a199ce"
+  }
+]
